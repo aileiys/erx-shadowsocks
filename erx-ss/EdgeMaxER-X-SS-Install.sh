@@ -6,7 +6,7 @@ run_op=/opt/vyatta/bin/vyatta-op-cmd-wrapper
 #===================================================================#
 #   System Required:  EdgeMax V1.9.1                                #
 #   Description: Install Shadowsocks-libev For EdgeMax1.9.1         #
-#   Author: landvd & aileiys                                        #
+#   Author: landvd                                                  #
 #   Thanks: @madeye <https://github.com/madeye>                     #
 #===================================================================#
 until
