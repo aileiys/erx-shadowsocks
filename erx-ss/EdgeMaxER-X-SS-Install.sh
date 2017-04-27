@@ -4,11 +4,10 @@ export PATH
 run_cfg=/opt/vyatta/sbin/vyatta-cfg-cmd-wrapper
 run_op=/opt/vyatta/bin/vyatta-op-cmd-wrapper
 #===================================================================#
-#   System Required:  EdgeMax V1.9                                  #
-#   Description: Install Shadowsocks-libev For EdgeMax1.9           #
-#   Author: landvd <5586822@qq.com>                                 #
+#   System Required:  EdgeMax V1.9.1                                #
+#   Description: Install Shadowsocks-libev For EdgeMax1.9.1         #
+#   Author: landvd & aileiys                                        #
 #   Thanks: @madeye <https://github.com/madeye>                     #
-#                                                                   #
 #===================================================================#
 until
 		echo "Please Select You Connect Mode"		
